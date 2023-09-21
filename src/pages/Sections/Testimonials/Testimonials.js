@@ -5,7 +5,7 @@ import TestimonialCard from "../../../components/TestimonialCard/TestimonialCard
 const testimonials = [
   {
     id: 1,
-    author: "Isabella Montgomery",
+    author: "Javid Ahmad",
     description:
       "Little Lemon's Bruschetta is a symphony of flavors; perfectly crispy bread coupled with the freshest tomatoes.",
     image:
@@ -14,7 +14,7 @@ const testimonials = [
   },
   {
     id: 2,
-    author: "Alexander Thompson",
+    author: "Shahrukh Khan",
     description:
       "The burger at Little Lemon was a taste revelation with its juicy, perfectly cooked meat and harmonious ingredient pairing.",
     image:
@@ -23,7 +23,7 @@ const testimonials = [
   },
   {
     id: 3,
-    author: "Olivia Jenkins",
+    author: "Ahmad Khan",
     description:
       "The Greek Salad at Little Lemon was delightfully fresh and flavorful, with a high-quality dressing. ",
     image:

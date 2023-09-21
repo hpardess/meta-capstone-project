@@ -4,7 +4,7 @@ import TestimonialCard from "./TestimonialCard";
 
 describe("TestimonialCard component", () => {
   const sampleData = {
-    author: "John Doe",
+    author: "Alex",
     description: "This is a sample testimonial.",
     image: "profile-picture.jpg",
     rating: 4,
